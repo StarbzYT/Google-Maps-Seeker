@@ -1,6 +1,6 @@
-# Google Maps Seeker
+# **Google Maps Seeker**
 
-Enter where you want to visit and recieve a text message of the location on Google Maps.
+## Enter where you want to visit and recieve a text message of the location on _Google Maps_.
 
 1. [x] Copy link for Google Maps
 
