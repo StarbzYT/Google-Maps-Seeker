@@ -18,17 +18,17 @@
 
 8. In the method:
 
-    [x] Ask the user for a location
+   - [x] Ask the user for a location
     
-    [x] Run email method (internal)
+    - [x] Run email method (internal)
     
-    [x] Ask for all the authentication data (auth_token, account_sid, etc.)
+    - [x] Ask for all the authentication data (auth_token, account_sid, etc.)
     
-    [x] Get a to and from phone number (given/stored in twilio)
+    - [x] Get a to and from phone number (given/stored in twilio)
     
-    [x] Send the user a message, which has a link to google maps with their desired location
+    - [x] Send the user a message, which has a link to google maps with their desired location
     
-    [x] Have conditionals in place to deal with falsy input
+    - [x] Have conditionals in place to deal with falsy input
 
 
 
